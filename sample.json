@@ -1,0 +1,194 @@
+{
+    "list": [
+        {
+            "_id": "5acbaa65406cd10057aef702",
+            "seq_id": 148933,
+            "icon": "2f6ef4f325d07ba020281df801fbfa4e.png",
+            "email": "help.chess@mail.com",
+            "phone": "",
+            "downloads": 10846,
+            "rank": 0,
+            "package": "com.jetstartgames.chess",
+            "date": "2018-04-09T18:01:09.568Z",
+            "udate": "2019-03-25T14:15:51.060Z",
+            "paid": false,
+            "status": "active",
+            "type": 1,
+            "class": "normal",
+            "silent": false,
+            "promo": false,
+            "countries": [
+                "UN"
+            ],
+            "meta": {
+                "gpCat": "GAME",
+                "gpSubCat": "BOARD",
+                "launcherCat": "Games"
+            },
+            "rejectCount": 0,
+            "languages": [
+                "gu",
+                "bn",
+                "ml",
+                "hi",
+                "ur",
+                "kn",
+                "pa",
+                "mr",
+                "te",
+                "ta",
+                "or",
+                "as",
+                "en"
+            ],
+            "category": {
+                "_id": "579fbc0bc766e28b543cc392",
+                "seq_id": 101,
+                "icon": "101.png",
+                "status": true,
+                "type": 1,
+                "downloads": 4088226,
+                "name": "Exciting Games"
+            },
+            "developer": {
+                "_id": "5bb7148ee964a0b7266298c6",
+                "phone": "00-0000000000",
+                "address": "India, Mumbai, Maharashtra, India, Postal Code: 000000",
+                "name": {
+                    "display": "Chess Prince",
+                    "first": "Chess Prince",
+                    "last": "Chess Prince"
+                }
+            },
+            "title": "Chess",
+            "description": "Hi Players,As you know Chess is one of the oldest strategy games in the world.Chess is an excellent board logic game that develops such skills as tactics, strategy, visual memory.I tried to create an application that allows a player of any level to enjoy the game.Chess pieces:- The pawn moves to one field forward or two fields at the first move of this figure, beats diagonally to one field forward.- The king moves to one field in the vertical, horizontal or diagonal.- The queen moves to any distance vertically, horizontally or diagonally.- The rook moves to any distance vertically or horizontally.- The knight moves to the field, which is in two fields along the vertical and one horizontally or one field vertically and two horizontally.- The bishop moves to any distance diagonally.The goal of the game is to checkmate the other king.- Check - the situation in chess, when a king is under immediate attack by opponent's pieces- Checkmate - the situation in chess, when the player whose turn it is to move is in check and has no legal move to escape check.- Stalemate - the situation in chess, when the player whose turn it is to move has no legal move and is not in check. (draw)Two special moves in Chess:- Castling is double move, which is performed by the king and the rook, that never moved.- En passant is a move in which a pawn can take an opponent's pawn if it jumps over a field under the pawn's blow.Features:- Ten difficulty levels- Game Assistant (Helper)- Undo-free stars for levels- Six different themes- Two board view (Top - 2D and Front - 3D)- Alternately mode- Two player mode- Realistic graphics- Save function- Sound effects- Small sizeIf you want to play good Chess, you can help me make app better.Please write your feedback and suggestions here, I will read them and improve the quality of the application!Thank you.",
+            "screens": [
+                "01a3009ddd3e1d81bf9465b9da6c4074.png",
+                "a17f2d3170797efe35d17b31d1a92538.png",
+                "86ddb2b6bf43afc58ce98136cac9cc65.png",
+                "66ee7402dd31f414c101444bc67ac066.png",
+                "0e509fefaae9c18bdb2262ac2e26ac84.png",
+                "7ecfec403d2036d7e8dc15e79f3e1b1b.png",
+                "fd9ab30d08e4f6fb7a09205fd99ca5e1.png",
+                "44622e4bc7faef955bf22d0b53ddb5fb.png"
+            ],
+            "amount": 0,
+            "currency": "INR",
+            "versions": [
+                {
+                    "version": 49,
+                    "label": "2.5.4",
+                    "seq_id": 167577,
+                    "_id": "5c98e2975033d1a51e19bcf6",
+                    "date": "2019-03-25T14:15:51.057Z",
+                    "size": 2379122,
+                    "api": 0,
+                    "status": true,
+                    "meta": {
+                        "_id": "5c98e2975033d1a51e19bcf7"
+                    },
+                    "permissions": []
+                }
+            ],
+            "source": "indus",
+            "app_rating": 4.523809523809524
+        },
+        {
+            "_id": "5c8d058dab47caeca5141217",
+            "seq_id": 145662,
+            "icon": "96eb1f5485d8952237783fd0ce6aee84.png",
+            "email": "feedback@tiktok.com",
+            "phone": "",
+            "downloads": 834341,
+            "rank": 348,
+            "package": "com.zhiliaoapp.musically",
+            "date": "2018-01-10T13:05:37.082Z",
+            "udate": "2019-04-04T13:52:47.364Z",
+            "paid": false,
+            "status": "active",
+            "type": 1,
+            "class": "normal",
+            "silent": false,
+            "promo": true,
+            "countries": [
+                "UN"
+            ],
+            "meta": {
+                "gpCat": "SOCIAL",
+                "gpSubCat": null,
+                "launcherCat": "Social"
+            },
+            "rejectCount": 0,
+            "languages": [
+                "bn",
+                "kn",
+                "as",
+                "ta",
+                "pa",
+                "ml",
+                "mr",
+                "hi",
+                "or",
+                "te",
+                "ur",
+                "gu",
+                "en"
+            ],
+            "category": {
+                "_id": "579fbc0bc766e28b543cc3a0",
+                "seq_id": 102,
+                "icon": "102.png",
+                "status": true,
+                "type": 1,
+                "downloads": 9635115,
+                "name": "Entertainment"
+            },
+            "developer": {
+                "_id": "5bcee621e964a0b726629e41",
+                "phone": "00-0000000000",
+                "address": "India, Mumbai, Maharashtra, India, Postal Code: 000000",
+                "name": {
+                    "display": "musical.ly",
+                    "first": "musical.ly",
+                    "last": "musical.ly"
+                }
+            },
+            "title": "TikTok - including musical.ly",
+            "description": "TikTok is a global video community. We make it easy for you to watch awesome short videos AND you can also make your own videos by capturing those funny and memorable moments to share with the world. Spice up your videos with our special effects filters, fun stickers, and so much more. Life’s moving fast, so make every second count. ■ Watch millions of videos selected specifically for youAn experience catered specifically for you based on content you watch, like, and share! TikTok will adapt to your taste to offer the most relevant, interesting, fun, quirky, head-turning videos that you’ll never want to stop watching! ■ Get entertained and inspired by a global community of creators Millions of creators are on TikTok showcasing their incredible talents, precious moments, and knowledge. ■ Add your favorite music or sound to your videos for freeEasily edit your videos with millions of free music clips and sounds! We create featured music playlists for you with the hottest tracks in every genre, including pop, rock, rap, electronic, R&B, country, and more.■ Use emoji stickers and face filters100+ emoji stickers available for free to take your videos to the next level. Unlock tons of fun face filters and beauty effects in your videos.■ Editing tools allow you to easily trim, cut, merge, and duplicate video clips■ Livestreaming filters are constantly being updated with fresh, creative designs■ Dance, Comedy, Vlog, Sports, DIY, and Animal videos all ready to be consumed* Any feedback? Contact us at feedback@tiktok.com or tweet us @tiktok",
+            "screens": [
+                "beba228600b685b539fc02b095f15eb2.jpeg",
+                "e6ce5e96f0fdc6ee7d7d964291691c22.png",
+                "46315b4e678650d85489aa190ce67397.png",
+                "f2b3ea82b324543772d46c2cdb9e4e3d.png",
+                "dcf62e2af930c121b90570894619ed63.png",
+                "6e827397bcaaeea4fbbc485a2ddd15d7.png",
+                "a2190343a0bda29d0cd34991407d80f7.png",
+                "989fcd3d735334cbb17a2b523cf0fde5.png",
+                "8d096fc20667af34cbf5296ad73dfcb2.png"
+            ],
+            "amount": 0,
+            "currency": "INR",
+            "versions": [
+                {
+                    "version": 2019040234,
+                    "label": "10.7.1",
+                    "seq_id": 167972,
+                    "_id": "5ca60c2f5033d1a51e19caa1",
+                    "date": "2019-04-04T13:52:47.360Z",
+                    "size": 75339399,
+                    "api": 0,
+                    "status": true,
+                    "meta": {
+                        "_id": "5ca60c2f5033d1a51e19caa2"
+                    },
+                    "permissions": []
+                }
+            ],
+            "source": "indus",
+            "app_rating": 4.280785816962147
+        }
+    ],
+    "metadata": {
+        "image_cdn": "http://cdn.appbazaar.com/preview_images"
+    }
+}
